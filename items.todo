@@ -6,7 +6,7 @@
     - `surface.fill((0, 0, 0))` @done
     - `pygame.display.set_caption("Hello World!")` @done
     - `pygame.display.flip()` @done
-    - `pygame.draw_rect()` @done
+    - `pygame.draw.rect()` @done
     - Pygame Event loop @done
 
 
